@@ -1,3 +1,5 @@
-#### Footer col 1
+#### **Cheatsheets**
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+* [W3C](https://www.w3.org/2009/cheatsheet/)
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown in Markdown](http://agea.github.io/tutorial.md/)

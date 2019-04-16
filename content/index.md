@@ -1,27 +1,18 @@
 ---
 title: "Min fina titel"
 ---
-Min me-sida i kursen oophp
+Presentation av mig
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/jg2.jpg?w=350&h=300&a=0,30,10,0&cf" class="right" caption="Bild på mig tagen en höst."]
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+Välkommen till min sida i kursen oophp. Denna sida kommer kontinuerligt att uppdateras med info om mig själv och kursmoment i kursen.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Jag heter Johan Gistorp och kommer från en by i Skåne som heter Skurup. Har tidigare arbetat på Postnord men tog mig mod att byta inriktning 2017 genom att börja studera. Tycker att det är svårt och ta sig in i studierna efter många års uppehåll, men än har jag inte gett upp.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Jag har växt upp med teknik och datorer sedan barnsben. Men oftast var det att man satt klistrad vid något spännande spel eller läsandes artiklar om diverse intressen. Detta gjorde att jag sökte in till IT utbildningen på John Bauer gymnasiet i Ystad med inriktning på nätverk. När jag tagit studenten fick jag jobbet på Postnord under sommaren och stannade där fram till 2019.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+När jag inte sitter och häckar vid datorn så är djur, natur och musik favoritsysslorna. För några år sedan började jag samla på vinylskivor. Detta har hållt i sig och idag har jag fått ihop en bra samling av både gammalt och nytt. Favoritgenren är fortfarande heavy metal, gärna från början av 70-talet.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+/Johan

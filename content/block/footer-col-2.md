@@ -1,3 +1,4 @@
-#### Footer col 2
+#### **Validators**
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+* [Unicorn](https://validator.w3.org/unicorn/#validate-by-uri+task_conformance)
+* [W3C](https://validator.w3.org/)
