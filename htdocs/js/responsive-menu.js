@@ -104,10 +104,11 @@
      * Prevent touch event scrolling & closing maxmenu on iOS
      */
     /*
+
     menuMax.addEventListener("scroll", function(event) {
         event.stopPropagation();
     });
-*/
+
 
 
 
